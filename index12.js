@@ -31,7 +31,7 @@ function uppercase(str) {
 //   function longest(str){ 
 //     str = str.split(" ") 
 
-//     return str.sort((a, b) => b.length - a.length)[0] 
+//     return str.sort((a, b) => a.length - b.length)[2] 
 //     } 
 
 //     console.log(longest("web devlopment tutorial"))
